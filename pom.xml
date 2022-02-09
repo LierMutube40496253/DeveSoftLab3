@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.napier.sem</groupId>
+    <groupId>com.napier.DeveSoftLab3</groupId>
     <artifactId>DeveSoftLab3</artifactId>
     <version>0.1.0.1</version>
 
@@ -30,7 +30,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>com.napier.sem.App</mainClass>
+                            <mainClass>com.napier.DeveSoftLab3.App</mainClass>
                         </manifest>
                     </archive>
                     <descriptorRefs>
