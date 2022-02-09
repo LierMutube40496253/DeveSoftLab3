@@ -16,8 +16,8 @@ jobs:
       - name: Compile with Maven
         run: mvn compile
       - name: Build Docker Image
-        run: docker build -t DeveSoftLab3image .
+        run: docker build -t devesoftlab3image .
       - name: Run image
-        run: docker run --name DeveSoftLab3container -d DeveSoftLab3image
+        run: docker run --name devesoftlab3container -d devesoftlab3image
       - name: view logs
-        run: docker logs DeveSoftLab3container
+        run: docker logs devesoftlab3container
