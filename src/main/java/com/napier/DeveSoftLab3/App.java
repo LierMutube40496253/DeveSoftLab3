@@ -118,6 +118,7 @@ public class App
             return null;
         }
     }
+
     public ArrayList<Employee> getAllSalaries()
     {
         try
