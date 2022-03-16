@@ -219,6 +219,14 @@ public class App
         }
     }
 
+    public Department getDepartment(String dept_name) {
+
+        return null;
+    }
+
+    public ArrayList<Employee> getSalariesByDepartment(Department dept) {
+        return null;
+    }
     public static void main(String[] args)
     {
         // Create new Application
