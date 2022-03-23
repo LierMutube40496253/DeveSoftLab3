@@ -32,12 +32,12 @@ public class Employee {
     /**
      * com.napier.DeveSoftLab3.Employee's current department
      */
-    public String dept_name;
+    public Department dept;
 
     /**
      * com.napier.DeveSoftLab3.Employee's manager
      */
-    public String manager;
+    public Employee manager;
 
 }
 
