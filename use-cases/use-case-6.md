@@ -11,7 +11,7 @@
     Emplpyee details are on the database.
 
 ##Success End Condition
-    Employee details are viewed so promotion request can be supported.
+    com.napier.DeveSoftLab3.Employee details are viewed so promotion request can be supported.
 
 ##Failed End Condition
     No detailes are showed.
@@ -23,14 +23,14 @@
     A request for empployee's promotion support is sent to HR.
 
 ##MAIN SUCCESS SCENARIO
-    1.Employee's promotion support is requested.
+    1.com.napier.DeveSoftLab3.Employee's promotion support is requested.
     2.HR advisor captures name of the employee.
     3.HR advisor views details about requested employee.
 
 ##EXTENSIONS
-    3.Employee does not exist:
+    3.com.napier.DeveSoftLab3.Employee does not exist:
         i.HR advisor informs employee no role exists.
-    3.Employee details are incorrect:
+    3.com.napier.DeveSoftLab3.Employee details are incorrect:
         i. HR advisor informs employee details are incorrect.
 ##SUB-VARIATIONS
     None.

@@ -23,11 +23,11 @@
     A request for adding a new employee is sent to HR.
 
 ##MAIN SUCCESS SCENARIO
-    1.Employee request to get paid.
+    1.com.napier.DeveSoftLab3.Employee request to get paid.
     2.HR advisor captures data of the employee.
     3.HR advisor add the employee details to the data base
 ##EXTENSIONS
-    3.Employee details are missing:
+    3.com.napier.DeveSoftLab3.Employee details are missing:
         i.HR advisor informs employee details are missing.
 ##SUB-VARIATIONS
     None.

@@ -11,7 +11,7 @@
     Emplpoye details are on the database.
 
 ##Success End Condition
-    Employee details are deleted.
+    com.napier.DeveSoftLab3.Employee details are deleted.
 
 ##Failed End Condition
     No employee is found.
@@ -23,11 +23,11 @@
     A request for deleting employee.
 
 ##MAIN SUCCESS SCENARIO
-    1.Employee's deletion request is sent to HR advisor.
+    1.com.napier.DeveSoftLab3.Employee's deletion request is sent to HR advisor.
     2.HR advisor deletes employee .
 
 ##EXTENSIONS
-    3.Employee does not exist:
+    3.com.napier.DeveSoftLab3.Employee does not exist:
         i.HR advisor informs  no employee exists.
 ##SUB-VARIATIONS
     None.
